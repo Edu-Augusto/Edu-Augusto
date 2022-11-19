@@ -1,6 +1,5 @@
 ## Olá! Meu nome é Eduardo Augusto
 - 🔭 Estou trabalhando com front-end
-- 🌱 Estudando typescript
 - 📫 Contatos pelo email : duduaugustooliveira@gmail.com
 
 <div align="center">
