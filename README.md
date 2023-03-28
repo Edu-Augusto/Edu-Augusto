@@ -1,5 +1,5 @@
 ## Olá! Meu nome é Eduardo Augusto
-- 🔭 Estou trabalhando com front-end
+- 🔭 Atualmente trabalho como desenvolvedor full-stack
 - 📫 Contatos pelo email : duduaugustooliveira@gmail.com
 
 <div align="center">
